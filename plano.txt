@@ -1,7 +1,6 @@
 Este es un documento de texto plano.
 
+Esta es la tercera línea de un documento de texto plano.
 
-Esta es la cuarta línea de un documento de texto plano.
-
-
+Por hoy, es todo lo que tenemos que decir.
 GG uwu
